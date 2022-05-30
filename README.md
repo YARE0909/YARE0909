@@ -1,6 +1,6 @@
 - Hi, I’m Pradyumna D
 - I’m interested in coding 
-- I’m currently learning machine learning and AI
+- I’m currently learning web designing
 - I’m looking to collaborate on any python projects
 - How to reach me: G-mail: pradyumnad9@gmail.com or add me on Discord YARE#7917
 
