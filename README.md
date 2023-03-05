@@ -2,7 +2,7 @@
 - I’m interested in coding 
 - I’m currently learning web designing
 - I’m looking to collaborate on any projects
-- How to reach me: G-mail: pradyumnad9@gmail.com or add me on Discord YARE#7917
+- How to reach me: G-mail: pradyumnad092004@gmail.com or add me on Discord YARE#7917
 - My website https://pradyumna-d.vercel.app/
 
 <!---
