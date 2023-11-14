@@ -6,7 +6,7 @@ Hello there, I am Pradyumna D a sophomore at SRM Institute Of Science and Techno
 - Javascript, Typescript, Python, C, C++, Rust
 
 # Projects
-- [Twitter Clone](kzilla-internal-hackathon.vercel.app)
+- [Twitter Clone](https://kzilla-internal-hackathon.vercel.app)
 - [Mozofest Website](https://mozofest.srmkzilla.net/)
 - [Infostash Website](https://infostash-web.vercel.app/)
 - [Facial Verification Webapp](https://capx-facial-recognition.vercel.app/)
