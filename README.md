@@ -1,9 +1,9 @@
 Hello there, I am Pradyumna D a sophomore at SRM Institute Of Science and Technology by day and a web developer by night. I enjoy designing elegant and unique UI/UX and exploring other exciting things.
 
 # My Tech Stack
-- React Js, Next Js, Remix, Angular and React Native
-- Node Js, Express Js, Prisma, MongoDB, Redis
-- Javascript, Typescript, Python, C, C++, Rust
+- React Js, Next Js, Remix, Angular, React Native
+- Node Js, Express Js, Prisma, MongoDB, Redis, MySql, Postgres
+- Javascript, Typescript, Python, C, C++
 
 # Projects
 - [Twitter Clone](https://kzilla-internal-hackathon.vercel.app)
