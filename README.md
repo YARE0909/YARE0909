@@ -1,4 +1,4 @@
-Hello there, I am Pradyumna D a sophomore at SRM Institute Of Science and Technology by day and a web developer by night. I enjoy designing elegant and unique UI/UX and exploring other exciting things.
+Hello there, I am Pradyumna D a juinor at SRM Institute Of Science and Technology by day and a web developer by night. I enjoy designing elegant and unique UI/UX and exploring other exciting things.
 
 # My Tech Stack
 - React Js, Next Js, Remix, Angular, React Native
