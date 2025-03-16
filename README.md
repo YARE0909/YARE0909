@@ -7,7 +7,7 @@ Hello there, I am Pradyumna D a juinor at SRM Institute Of Science and Technolog
 
 # Projects
 - [Twitter Clone](https://kzilla-internal-hackathon.vercel.app)
-- [Mozofest Website](https://mozofest.srmkzilla.net/)
+- [Globtrotter](https://globetrotter-nine.vercel.app/)
 - [Infostash Website](https://infostash-web.vercel.app/)
 - [Facial Verification Webapp](https://capx-facial-recognition.vercel.app/)
 
