@@ -10,6 +10,7 @@ Hello there, I am Pradyumna D a juinor at SRM Institute Of Science and Technolog
 - [Globtrotter](https://globetrotter-nine.vercel.app/)
 
 
+# Github Stats
   ![Pradyumna's Stats](https://github-readme-stats.vercel.app/api?username=yare0909&show_icons=true&theme=transparent)
   ![Trophies](https://github-profile-trophy.vercel.app/?username=yare0909&theme=onedark)
 <!---
