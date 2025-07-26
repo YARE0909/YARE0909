@@ -25,8 +25,6 @@ Passionate about full-stack development and evolving towards AI/ML to build inte
 
 ![Pradyumna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yare0909&show_icons=true&theme=radical&hide_title=true)  
 
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yare0909&langs_count=8&layout=compact&theme=radical)  
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yare0909&theme=radical&row=3&column=3)
 
 ---
