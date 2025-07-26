@@ -47,7 +47,7 @@ Passionate about full-stack development and evolving towards AI/ML to build inte
 ---
 
 📫 Feel free to connect with me:  
-[LinkedIn](https://www.linkedin.com/in/pradyumna-d) | [Portfolio](https://pradyumnad.vercel.app) | [Email](mailto:pradyumnad092004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pradyumna-d-95a88123b) | [Portfolio](https://pradyumnad.vercel.app) | [Email](mailto:pradyumnad092004@gmail.com)
 
 ---
 
