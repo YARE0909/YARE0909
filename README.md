@@ -12,7 +12,7 @@ Hello there, I am Pradyumna D a juinor at SRM Institute Of Science and Technolog
 
 # Github Stats
   ![Pradyumna's Stats](https://github-readme-stats.vercel.app/api?username=yare0909&show_icons=true&theme=transparent)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yare0909&no-bg=true&row=3&column=3)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=yare0909&theme=onedark&row=3&column=3)
 
 <!---
 YARE0909/YARE0909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
