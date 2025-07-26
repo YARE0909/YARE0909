@@ -5,11 +5,6 @@ Hello there, I am Pradyumna D a juinor at SRM Institute Of Science and Technolog
 - Node Js, Express Js, Prisma, MongoDB, Redis, MySql, Postgres
 - Javascript, Typescript, Python, C, C++
 
-# Projects
-- [Twitter Clone](https://kzilla-internal-hackathon.vercel.app)
-- [Globtrotter](https://globetrotter-nine.vercel.app/)
-
-
 # Github Stats
   ![Pradyumna's Stats](https://github-readme-stats.vercel.app/api?username=yare0909&show_icons=true&theme=transparent)
   
