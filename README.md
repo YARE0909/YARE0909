@@ -17,7 +17,7 @@ Passionate about full-stack development and evolving towards AI/ML to build inte
 
 | Frontend                       | Backend & Databases                     | Languages                | Tools & Platforms          |
 |-------------------------------|---------------------------------------|--------------------------|---------------------------|
-| React.js, Next.js, Remix, Angular, React Native | Node.js, Express.js, Prisma, MongoDB, Redis, MySQL, PostgreSQL | JavaScript, TypeScript, Python, C, C++ | Git, Linux, VS Code, Postman |
+| React.js, Next.js, Remix, Angular, React Native | Node.js, Express.js, Java Springboot,Prisma, MongoDB, Redis, MySQL, PostgreSQL | JavaScript, TypeScript, Python, C, C++ | Git, Linux, VS Code, Postman |
 
 ---
 
